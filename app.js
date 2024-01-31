@@ -10,7 +10,7 @@
  }
 
  function exibirMensagemInicial() {
-   exibirTextoNaTela('h1', 'Jogo do número secre');
+   exibirTextoNaTela('h1', 'Jogo do número secreto');
    exibirTextoNaTela('p', `Escolha o número entre 1 e ${numeroLimite}`);
  }
 
